@@ -75,9 +75,6 @@ gcc main.c functions.c -o inverted
 
 ---
 
-
----
-
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub!
